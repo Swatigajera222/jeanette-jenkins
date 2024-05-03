@@ -490,36 +490,6 @@ ul {
 .slick-dots li {
   display: block;
 }
-/* sec-banner-wrap */
-.sec-banner-wrap {
-  position: relative;
-  width: 100%;
-}
-.sec-banner-wrap .web-sec-img {
-  display: block;
-}
-.sec-banner-wrap .mobile-sec-img {
-  display: none;
-}
-.sec-banner-wrap img {
-  width: 100%;
-}
-.sec-banner-wrap a {
-  color: rgb(255, 255, 255);
-  font-weight: 600;
-  background-color: #2bc43d;
-  font-size: 44px;
-  border-radius: 15px;
-  padding: 20px 50px;
-  text-transform: uppercase;
-  position: absolute;
-  bottom: 9%;
-  right: 35%;
-}
-.sec-banner-wrap a:hover {
-  background-color: #14b327;
-}
-/* END-sec-banner-wrap */
 /* bootcamp-section */
 .bootcamp-section {
   padding-top: 40px;
@@ -929,13 +899,6 @@ svg.icon__arrow-up {
   height: 32px;
 }
 /*  Responsive*/
-@media only screen and (min-width: 1600px) {
-  .sec-banner-wrap a {
-    font-size: 54px;
-    padding: 24px 68px;
-    bottom: 9%;
-  }
-}
 @media only screen and (max-width: 1400px) {
   .subscribe-dec h1 {
     font-size: 80px;
@@ -983,11 +946,6 @@ svg.icon__arrow-up {
   .annual-membership .annual-membership-inner h2 {
     font-size: 55px;
   }
-  .sec-banner-wrap a {
-    font-size: 38px;
-    padding: 16px 40px;
-    bottom: 8%;
-  }
 }
 @media only screen and (max-width: 1150px) {
   .footer-section ul li a,
@@ -1020,10 +978,6 @@ svg.icon__arrow-up {
   }
   .subscribe-dec h2 span .off-text {
     font-size: 60px;
-  }
-  .sec-banner-wrap a {
-    font-size: 30px;
-    padding: 12px 28px;
   }
   .sortable-wrap .bootcamp-start .bootcamp-inner {
     text-align: center;
@@ -1113,11 +1067,6 @@ svg.icon__arrow-up {
   }
   .subscribe-dec h2 {
     font-size: 22px;
-  }
-  .sec-banner-wrap a {
-    font-size: 18px;
-    padding: 10px 22px;
-    right: 20%;
   }
   .testimonials-box p {
     font-size: 20px;
@@ -1315,21 +1264,6 @@ svg.icon__arrow-up {
   .subscribe-dec h2 span .off-text {
     font-size: 38px;
   }
-  .sec-banner-wrap .web-sec-img {
-    display: none;
-  }
-  .sec-banner-wrap .mobile-sec-img {
-    display: block;
-  }
-  .sec-banner-wrap a {
-    font-size: 30px;
-    padding: 12px 28px;
-    border-radius: 6px;
-    left: unset;
-    right: 22%;
-    bottom: 8%;
-    background: #2bc43d;
-  }
   .sign-up {
     font-size: 22px;
     max-width: 160px;
@@ -1482,9 +1416,6 @@ svg.icon__arrow-up {
   .header-section .brand-logo {
     width: 150px;
   }
-  .sec-banner-wrap a {
-    font-size: 18px;
-  }
   .sortable-wrap .bootcamp-start h1 {
     font-size: 36px;
   }
@@ -1505,10 +1436,6 @@ svg.icon__arrow-up {
   }
   .subscribe-dec h3 {
     font-size: 22px;
-  }
-  .sec-banner-wrap a {
-    bottom: 4%;
-    right: 18%;
   }
   .sortable-wrap .bootcamp-start h1 {
     font-size: 36px;
