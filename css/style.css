@@ -214,7 +214,7 @@ ul {
   width: 60%;
 }
 .banner-section .banner-slide-dec h3 {
-  font-size: 80px;
+  font-size: 76px;
   color: #fe018a;
   margin: 10px 0px;
   font-family: Pandora;
@@ -231,13 +231,13 @@ ul {
 }
 /* Sec-img */
 .banner-section .slide-two .banner-img {
-  padding: 60px 0px 0px;
+  padding: 60px 0px;
 }
 .banner-section .slide-two .banner-img img {
   width: 100%;
 }
 .banner-section .slide-two .banner-slide-dec {
-  margin: 60px auto 0px;
+  margin: 60px auto;
 }
 .banner-section .slide-two .banner-slide-dec h3 {
   font-family: Inter-Bold;
@@ -255,6 +255,40 @@ ul {
   text-align: center;
 }
 .banner-section .slide-two .banner-slide-dec .join-btn button {
+  font-size: 26px;
+  font-family: Lato-Bold;
+  padding: 15px 40px;
+  border-radius: 20px;
+  border: none;
+  color: #fff;
+  background-color: #ff0099;
+}
+/* three-img */
+.banner-section .slide-three .banner-img {
+  padding: 60px 0px;
+}
+.banner-section .slide-three .banner-img img {
+  width: 100%;
+}
+.banner-section .slide-three .banner-slide-dec {
+  margin: 60px auto;
+}
+.banner-section .slide-three .banner-slide-dec h3 {
+  font-family: RobotoSlab-Bold;
+  font-size: 50px;
+}
+.banner-section .slide-three .banner-slide-dec h3 span {
+  color: #000;
+}
+.banner-section .slide-three .banner-slide-dec p {
+  width: 65%;
+  margin: 40px auto 30px;
+  color: #ff0099;
+}
+.banner-section .slide-three .banner-slide-dec .join-btn {
+  text-align: center;
+}
+.banner-section .slide-three .banner-slide-dec .join-btn button {
   font-size: 26px;
   font-family: Lato-Bold;
   padding: 15px 40px;
