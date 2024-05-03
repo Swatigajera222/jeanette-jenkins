@@ -230,6 +230,11 @@ ul {
   margin-bottom: 0px;
 }
 /* Sec-img */
+.banner-section .slide-two {
+  background-image: url(..//img/background-main.jpg);
+  border-radius: 20px;
+  overflow: hidden;
+}
 .banner-section .slide-two .banner-img {
   padding: 60px 0px;
 }
@@ -264,6 +269,11 @@ ul {
   background-color: #ff0099;
 }
 /* three-img */
+.banner-section .slide-three {
+  background-image: url(..//img/background-main.jpg);
+  border-radius: 20px;
+  overflow: hidden;
+}
 .banner-section .slide-three .banner-img {
   padding: 60px 0px;
 }
@@ -324,8 +334,6 @@ ul {
 .what-new-section .what-new-body .what-new-img img {
   width: 100%;
 }
-.what-new-section .what-new-body .what-new-dec {
-}
 .what-new-section .what-new-body .what-new-dec p {
   font-size: 18px;
   font-family: Poppins-Regular;
@@ -379,7 +387,6 @@ ul {
 }
 .virtual-gym-section .virtual-inner .virtual-dec {
   width: 40%;
-
   align-items: center;
 }
 .virtual-gym-section .virtual-inner .virtual-dec .virtual-dec-inner {
@@ -461,7 +468,6 @@ ul {
 .slick-dotted.slick-slider {
   margin: 0;
 }
-
 .slides {
   width: 100%;
 }
@@ -537,7 +543,6 @@ ul {
   margin-top: -5px;
 }
 .bootcamp-section ul {
-  /* list-style-image: url(..//img/check-solid.svg); */
   padding-left: 00px;
 }
 .bootcamp-sev {
@@ -562,7 +567,6 @@ ul {
 .bootcamp-section ul li strong {
   color: #000;
 }
-
 /* END bootcamp-section */
 /* testimonials-section */
 .testimonials-section {
@@ -643,7 +647,6 @@ ul {
 .testimonials-section .testimonials-slider .owl-nav .owl-next {
   right: -20px;
 }
-
 /* sortable-wrap */
 .sortable-wrap {
   background-color: #fe018a;
@@ -683,7 +686,6 @@ ul {
   letter-spacing: 2px;
   margin-bottom: 0px;
 }
-
 .sortable-wrap .price-btn {
   margin-top: 30px;
   text-align: center;
@@ -701,7 +703,6 @@ ul {
 .sortable-wrap .price-btn a:hover {
   background-color: #14b327;
 }
-
 /* END-video-area */
 /* annual-membership */
 .annual-membership {
