@@ -629,9 +629,11 @@ ul {
   font-family: RobotoSlab-Bold;
   margin-bottom: 20px;
   margin-top: 10px;
+  text-transform: uppercase;
 }
 .join-app-section .join-app-dec h2 span {
   color: #000;
+  text-transform: capitalize;
 }
 .join-app-section .join-app-dec p {
   font-size: 20px;
